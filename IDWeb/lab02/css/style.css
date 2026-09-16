@@ -61,7 +61,6 @@ textarea {
     border-radius: 4px;
 }
 
-/* Pseudo-clases interactivas */
 input:focus, select:focus, textarea:focus {
     border-color: #007bff;
     outline: none;
