@@ -31,29 +31,3 @@ a:link {
 a:visited {
   color: purple;
 }
-address {
-  margin-top: 1em;
-  padding-top: 1em;
-  border-top: thin solid black;
-}
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 1em;
-  background-color: white;
-  color: black;
-}
-    th, td {
-  border: 1px solid black;
-  padding: 8px;
-  text-align: left;
-}
-th {
-  background-color: #eee;
-}
-section {
-  margin-bottom: 2em;
-}
-.media-container {
-  margin-top: 1em;
-}
